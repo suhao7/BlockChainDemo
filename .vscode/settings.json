@@ -1,0 +1,8 @@
+{
+    "ltex.ignoreRuleInSentence": [
+        {
+            "rule": "MORFOLOGIK_RULE_EN_US",
+            "sentence": "^\\QBlockChainDemo\\E$"
+        }
+    ]
+}
