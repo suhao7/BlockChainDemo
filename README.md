@@ -1,3 +1,3 @@
 # BlockChainDemo
 
-A simple implementation of blockchain.
+A simple implementation of blockchain using C#.
